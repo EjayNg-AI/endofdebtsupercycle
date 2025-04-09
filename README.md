@@ -114,18 +114,33 @@ In conclusion, **geopolitics and economics are now deeply intertwined**. Strateg
 ## References
 
 [1] InvestBlue/AMP Capital – Oliver, S. (2021). “Rising bond yields and the end of the super cycle bull market in bonds.” URL: `https://investbluelegacy.server400.nucleoserver.com/market-updates/rising-bond-yields-and-the-end-of-the-super-cycle-bull-market-in-bonds`
+
 [2] European Central Bank – Schnabel, I. (2023). “Money and Inflation” (Thünen Lecture). URL: `https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230925_1~7ad8ef22e2.en.html`
+
 [3] World Economic Forum (2025). *Navigating Global Financial System Fragmentation* – Press Release. URL: `https://www.weforum.org/press/2025/01/economic-costs-of-fragmentation-could-eclipse-those-of-2008-financial-crisis-or-covid-19-pandemic-02f4fedfe9/`
+
 [4] Bank for International Settlements (2023). *BIS Annual Economic Report 2023*. URL: `https://static.poder360.com.br/2023/06/bis-annual-report.pdf`
+
 [5] BlackRock Investment Institute (2024). *2025 Investment Outlook*. URL: `https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/outlook`
+
 [6] State Street Global Advisors (2022). “Inflation – Why it is Such a Big Deal for Equities.” URL: `https://www.ssga.com/library-content/pdfs/inflation-why-it-is-such-a-big-deal-for-equities.pdf`
+
 [7] Morningstar (2025). "What Higher Bond Yields Mean for Markets in 2025". URL: `https://www.morningstar.com/markets/what-higher-bond-yields-mean-markets-2025-2`
+
 [8] IMF Blog – Arslanalp, Serkan et al. (2024). “Dollar Dominance in the International Reserve System: An Update.” URL: `https://www.imf.org/en/Blogs/Articles/2024/06/11/dollar-dominance-in-the-international-reserve-system-an-update`
+
 [9] Council on Foreign Relations (CFR). "The Dollar: The World's Reserve Currency". URL: `https://www.cfr.org/backgrounder/dollar-worlds-reserve-currency`
+
 [10] Reuters – Devitt, P. (2025). “Trump's policies to spur further central bank gold buying.” URL: `https://www.reuters.com/markets/commodities/trumps-policies-spur-further-central-bank-gold-buying-2025-04-03/`
+
 [11] Stockholm International Peace Research Institute (SIPRI) (2024). “Global military spending surges amid war…” – SIPRI Press Release. URL: `https://www.sipri.org/media/press-release/2024/global-military-spending-surges-amid-war-rising-tensions-and-insecurity`
+
 [12] The International Institute for Strategic Studies (IISS) | Facebook (2024). Post on global defence spending. URL: `https://www.facebook.com/TheIISS/posts/in-2024-global-defence-spending-reflected-intensifying-security-challenges-and-r/1057803886386098/`
+
 [13] The International Institute for Strategic Studies (IISS) | Instagram (2024). Post on global defence spending. URL: `https://www.instagram.com/iissorg/p/DGAfAhGt6jq/?api=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B3%87%E6%A0%AA%E5%B7%B4%E8%BE%96%E7%BA%A6%E7%82%AEWhatsApp%EF%BC%9A601167898268%E5%85%A8%E5%A5%97%E6%9C%8D%E5%8A%A1.ogrm&hl=es`
+
 [14] Foreign Policy (2025). "Can Trump's 5 Percent Defense Spending Threshold Save NATO?". URL: `https://foreignpolicy.com/2025/03/06/nato-5-percent-defense-spending-trump-russia-ukraine/`
+
 [15] Atlantic Council – Falkenek, C. (2024). “Who’s at 2 percent? NATO defense spending since Russia’s invasion.” URL: `https://www.atlanticcouncil.org/blogs/econographics/whos-at-2-percent-look-how-nato-allies-have-increased-their-defense-spending-since-russias-invasion-of-ukraine/`
+
 [16] Microchip USA (undated). "Everything You Need to Know About The U.S. Semiconductor Restrictions on China". URL: `https://www.microchipusa.com/industry-news/semiconductor-industry/everything-you-need-to-know-about-the-u-s-semiconductor-restrictions-on-china/`
